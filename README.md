@@ -275,7 +275,7 @@ This project is licensed under the MIT License - feel free to use this structure
 
 ## 📬 Connect With Me
 
-- **GitHub**: [@Tejas-Santosh-Nalawade](https://github.com/Tejas-Santosh-Nalawade)
+- **GitHub**: [Tejas-Santosh-Nalawade](https://github.com/Tejas-Santosh-Nalawade)
 - **LinkedIn**: [Tejas Nalawade](https://www.linkedin.com/in/tejas-nalawade/)
 - **Email**: tejassantoshnalawade@gmail.com
 
@@ -287,6 +287,6 @@ This project is licensed under the MIT License - feel free to use this structure
 
 **"The journey of a thousand miles begins with a single step"** - Lao Tzu
 
-Made with ❤️ 
+Made with ❤️ for Cloud and DevOps Community
 
 </div>
